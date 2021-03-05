@@ -293,7 +293,9 @@ node {
 }
 ```
 
-#### Github App Credentials
+#### Github App Credentials (Optional)
+
+Requires *git-source-branch* plugin to create this credential type
 
 A github *private key*, with a *github app id*.
 
